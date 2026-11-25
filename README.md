@@ -92,6 +92,7 @@ function provided in the notebook.
   subject-wise split.
 - Fairness across demographic groups has not been established.
 - The model must not be used for decisions about individuals.
+- The predefined test set was inspected during model and feature-comparison experiments, so the reported test metrics may be somewhat optimistic. Five-fold cross-validation provides an additional assessment of model stability.
 
 This project is an educational machine learning experiment only.
 Its predictions should not be treated as objective judgements.
