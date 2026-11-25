@@ -1,0 +1,17 @@
+
+Python: 3.13.18
+NumPy: 2.4.6
+Pandas: 2.2.3
+Scikit-learn: 1.6.1
+Scikit-image: 0.25.2
+Pillow: 11.3.0
+
+Main model: SVR with HOG features
+Image size: 128 x 128
+HOG orientations: 9
+Pixels per cell: 8 x 8
+Cells per block: 2 x 2
+PCA components: 100
+SVR kernel: RBF
+SVR C: 10
+SVR epsilon: 0.1
